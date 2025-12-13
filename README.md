@@ -49,7 +49,7 @@ Using Recency, Frequency, and Monetary (RFM) analysis, we segmented the customer
 
 ### 1. Python Analysis (Statistical Deep-Dive)
 *Identifying the Profitability Risk in Electronics:*
-![Profit Analysis](images/python_chart.png)
+![Profit Analysis](/images/MonhtlyRevenueVsProfitTrajectory.png)
 
 ### 2. Power BI Dashboard (Operational View)
 *Interactive view of Sales, Profit, and Regional Performance:*
