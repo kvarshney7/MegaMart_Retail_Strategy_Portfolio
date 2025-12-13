@@ -53,7 +53,7 @@ Using Recency, Frequency, and Monetary (RFM) analysis, we segmented the customer
 
 ### 2. Power BI Dashboard (Operational View)
 *Interactive view of Sales, Profit, and Regional Performance:*
-![Dashboard Screenshot](images/powerbi_screenshot.png)
+![Dashboard Screenshot](/images/Dashboard%20pdf_page-0001.jpg)
 
 ---
 
