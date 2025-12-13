@@ -11,10 +11,10 @@ By integrating **Python (for statistical EDA)** and **Power BI (for interactive 
 ## Project Deliverables
 | File | Description |
 | :--- | :--- |
-| **[MegaMart_Retail_Strategy_Analysis.pdf](/main/MegaMart_Retail_Strategy_Analysis.pdf)** | Full Data Analysis & RFM Segmentation (Readable Format). |
-| **[STRATEGIC BUSINESS REPORT.pdf](/main/STRATEGIC%20BUSINESS%20REPORT.pdf)** | Executive Memo summarizing findings & recommendations. |
-| **[MegaMart_Dashboard.pbix](/main/sales%20dashboard%20kaggle.pbix)** | Interactive Power BI file. |
-| **[Source Code (.ipynb)](/main/MegaMart%20Strategic%20Business%20Analysis.ipynb.json)** | Python code for data cleaning, EDA, and statistical tests. |
+| **[MegaMart_Retail_Strategy_Analysis.pdf](/MegaMart_Retail_Strategy_Analysis.pdf)** | Full Data Analysis & RFM Segmentation (Readable Format). |
+| **[STRATEGIC BUSINESS REPORT.pdf](/STRATEGIC%20BUSINESS%20REPORT.pdf)** | Executive Memo summarizing findings & recommendations. |
+| **[MegaMart_Dashboard.pbix](/sales%20dashboard%20kaggle.pbix)** | Interactive Power BI file. |
+| **[Source Code (.ipynb)](/MegaMart%20Strategic%20Business%20Analysis.ipynb.json)** | Python code for data cleaning, EDA, and statistical tests. |
 
 ---
 
