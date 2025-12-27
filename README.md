@@ -77,5 +77,5 @@ Based on the analysis, the following actions are recommended (detailed in the **
     * Open in Power BI Desktop to interact with slicers and filters.
 
 ---
-**Author:** [Your Name]  
+**Author:** Krishna Varshneg 
 **Connect:** [Your LinkedIn Profile Link]
